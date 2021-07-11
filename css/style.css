@@ -707,7 +707,14 @@ hr {
     .footer-menu .contacts {
         display: block;
     }
-    
+	
+    .item-news img {
+        max-width: 100%;
+    }
+
+    .grid-news {
+        justify-content: center;
+    }
 }
 
 @media (max-width: 570px) {
