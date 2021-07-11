@@ -714,4 +714,9 @@ hr {
     .grid-arguments {
         grid-template-columns: 1fr;
     }
+
+    .container {
+        max-width: 480px;
+        margin: 0 20px;
+    }
 }
