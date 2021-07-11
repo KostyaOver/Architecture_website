@@ -720,3 +720,10 @@ hr {
         margin: 0 20px;
     }
 }
+
+@madia (min-width: 570px) {
+	.container {
+		max-width: 300px;
+		margin: 0 10px;
+	}
+}
