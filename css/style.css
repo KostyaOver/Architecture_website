@@ -149,7 +149,7 @@ hr {
     width: 300px;
     background-color: var(--white);
     width: 350px;
-    height: 200px;
+    height: auto;
     padding: 20px 5px;
 }
 
